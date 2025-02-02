@@ -1,7 +1,7 @@
 # Sokoban Game in Python
 
-(![Screenshot 2025-02-02 142754](https://github.com/user-attachments/assets/3f9cf6bd-3342-4e2e-a775-efef82786ecb)
-) <!-- Add a screenshot if available -->
+![Screenshot 2025-02-02 142754](https://github.com/user-attachments/assets/3f9cf6bd-3342-4e2e-a775-efef82786ecb)
+ <!-- Add a screenshot if available -->
 
 A simple implementation of the classic Sokoban puzzle game using Python and Pygame. The goal of the game is to push all the boxes onto the designated storage locations.
 
