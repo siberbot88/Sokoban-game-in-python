@@ -1,7 +1,3 @@
-Berikut adalah contoh file `README.md` untuk proyek game Sokoban yang Anda buat menggunakan Python dan Pygame:
-
----
-
 # Sokoban Game in Python
 
 (![Screenshot 2025-02-02 142754](https://github.com/user-attachments/assets/3f9cf6bd-3342-4e2e-a775-efef82786ecb)
