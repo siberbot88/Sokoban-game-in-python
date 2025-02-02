@@ -29,7 +29,7 @@ To run this game, you need the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/sokoban-python.git
+   git clone [https://github.com/your-username/sokoban-python.git](https://github.com/siberbot88/Sokoban-game-in-python.git)
    cd sokoban-python
    ```
 
