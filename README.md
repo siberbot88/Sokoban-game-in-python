@@ -4,7 +4,7 @@ Berikut adalah contoh file `README.md` untuk proyek game Sokoban yang Anda buat 
 
 # Sokoban Game in Python
 
-![Sokoban Screenshot](![Screenshot 2025-02-02 142754](https://github.com/user-attachments/assets/3f9cf6bd-3342-4e2e-a775-efef82786ecb)
+(![Screenshot 2025-02-02 142754](https://github.com/user-attachments/assets/3f9cf6bd-3342-4e2e-a775-efef82786ecb)
 ) <!-- Add a screenshot if available -->
 
 A simple implementation of the classic Sokoban puzzle game using Python and Pygame. The goal of the game is to push all the boxes onto the designated storage locations.
